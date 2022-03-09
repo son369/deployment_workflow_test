@@ -1,5 +1,8 @@
-4650
-69/home/jayson/Development/training/html5/deployment_workflow_test/dist1646820097005993883 1
+4654
+110/home/jayson/Development/training/html5/deployment_workflow_test/dist/deployment_workflow_test.3464ddca.js.map1646820222976676813 0
+92/home/jayson/Development/training/html5/deployment_workflow_test/dist/index.1303bb05.css.map1646820222976676813 0
+106/home/jayson/Development/training/html5/deployment_workflow_test/dist/deployment_workflow_test.3464ddca.js1646820222964676557 0
+69/home/jayson/Development/training/html5/deployment_workflow_test/dist1646820504015662387 1
 96/home/jayson/Development/training/html5/deployment_workflow_test/node_modules/.package-lock.json1646819190221688650 0
 106/home/jayson/Development/training/html5/deployment_workflow_test/node_modules/.bin/node-gyp-build-optional1646819188844659337 0
 89/home/jayson/Development/training/html5/deployment_workflow_test/node_modules/.bin/cssesc1646819188844659337 0
@@ -243,6 +246,7 @@
 111/home/jayson/Development/training/html5/deployment_workflow_test/node_modules/css-tree/lib/syntax/node/index.js1646819164031131114 0
 116/home/jayson/Development/training/html5/deployment_workflow_test/node_modules/css-tree/lib/syntax/node/IdSelector.js1646819163931128985 0
 116/home/jayson/Development/training/html5/deployment_workflow_test/node_modules/css-tree/lib/syntax/node/Identifier.js1646819163926128879 0
+88/home/jayson/Development/training/html5/deployment_workflow_test/dist/index.1303bb05.css1646820222964676557 0
 114/home/jayson/Development/training/html5/deployment_workflow_test/node_modules/css-tree/lib/syntax/node/Function.js1646819163839127026 0
 121/home/jayson/Development/training/html5/deployment_workflow_test/node_modules/css-tree/lib/syntax/node/DeclarationList.js1646819163721124514 0
 113/home/jayson/Development/training/html5/deployment_workflow_test/node_modules/css-tree/lib/syntax/node/Comment.js1646819162857106121 0
@@ -536,7 +540,7 @@
 129/home/jayson/Development/training/html5/deployment_workflow_test/node_modules/stylehacks/src/plugins/htmlCombinatorCommentBody.js1646819161756082684 0
 94/home/jayson/Development/training/html5/deployment_workflow_test/node_modules/nan/CHANGELOG.md1646819161385074786 0
 94/home/jayson/Development/training/html5/deployment_workflow_test/node_modules/nan/package.json1646819161254071997 0
-80/home/jayson/Development/training/html5/deployment_workflow_test/dist/index.html1646820096875991114 0
+80/home/jayson/Development/training/html5/deployment_workflow_test/dist/index.html1646820504012662323 0
 112/home/jayson/Development/training/html5/deployment_workflow_test/node_modules/postcss-discard-comments/README.md1646819161751082577 0
 115/home/jayson/Development/training/html5/deployment_workflow_test/node_modules/postcss-discard-comments/src/index.js1646819161652080469 0
 114/home/jayson/Development/training/html5/deployment_workflow_test/node_modules/postcss-discard-comments/LICENSE-MIT1646819161316073317 0
@@ -2201,7 +2205,7 @@
 120/home/jayson/Development/training/html5/deployment_workflow_test/node_modules/@parcel/core/test/PublicDependency.test.js1646819164884149272 0
 114/home/jayson/Development/training/html5/deployment_workflow_test/node_modules/@parcel/core/lib/UncommittedAsset.js1646819164929150230 0
 100/home/jayson/Development/training/html5/deployment_workflow_test/node_modules/@parcel/transformer-js1646819187888638986 1
-75/home/jayson/Development/training/html5/deployment_workflow_test/index.html1646819013281922036 0
+75/home/jayson/Development/training/html5/deployment_workflow_test/index.html1646820476406074352 0
 109/home/jayson/Development/training/html5/deployment_workflow_test/node_modules/caniuse-lite/data/regions/MP.js1646819165084153530 0
 105/home/jayson/Development/training/html5/deployment_workflow_test/node_modules/@parcel/workers/lib/threads1646819163231114083 1
 125/home/jayson/Development/training/html5/deployment_workflow_test/node_modules/caniuse-lite/data/features/custom-elementsv1.js1646819164766146760 0
